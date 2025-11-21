@@ -11,32 +11,32 @@
 - Port forward auf das WAN Interface von dem Webserver über IPv6 aufgesetzt, damit der Webserver über die Public IPv6 erreichbar ist. 
 
 Lan Interface:
-![LAN Interface](/Pasted image 20251121165047.png)
+![LAN Interface](Pasted image 20251121165047.png)
 
 DMZ Interface:
-![DMZ Interface](/Pasted image 20251121164956.png)
+![DMZ Interface](Pasted image 20251121164956.png)
 
 WAN Interface:
-![WAN Interface](/Pasted image 20251121165123.png)
+![WAN Interface](Pasted image 20251121165123.png)
 
 LAN Firewall Regeln:
-![LAN Firewall Regeln](/Pasted image 20251121164843.png]
+![LAN Firewall Regeln](Pasted image 20251121164843.png]
 
 DMZ Firewall Regeln:
-![DMZ Firewall Regeln](/Pasted image 20251121164914.png)
+![DMZ Firewall Regeln](Pasted image 20251121164914.png)
 
 NAT Port Forward:
-![NAT Port Forward](/Pasted image 20251121170101.png)
+![NAT Port Forward](Pasted image 20251121170101.png)
 
 DHCP Ranges:
-![DHCP Ranges](/Pasted image 20251121165248.png)
+![DHCP Ranges](Pasted image 20251121165248.png)
 
 Router Advertisements:
-![Router Advertisements LAN](/Pasted image 20251121165356.png)
-![Router Advertisements DMZ](/Pasted image 20251121165326.png)
+![Router Advertisements LAN](Pasted image 20251121165356.png)
+![Router Advertisements DMZ](Pasted image 20251121165326.png)
 
 DNS Override:
-![DNS Override](/Pasted image 20251121165920.png)
+![DNS Override](Pasted image 20251121165920.png)
 
 
 
