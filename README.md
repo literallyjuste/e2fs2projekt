@@ -39,7 +39,6 @@ DNS Override:
 ![DNS Override](Pasted image 20251121165920.png)
 
 
-
 ### TODO:
 
 - [x] DMZ Netzwerk
