@@ -8,7 +8,8 @@
 - Firewall regel um OPNSense nur von Management zu erreichen
 - DHCPv6 für LAN und DMZ aufgesetzt. Router Announcements konfiguriert.
 - Checkmk WebUI über IPv4/v6 nur von Management erreichbar gemacht
-- Port forward auf das WAN Interface von dem Webserver über IPv6 aufgesetzt, damit der Webserver über die Public IPv6 erreichbar ist. 
+- Port forward auf das WAN Interface von dem Webserver über IPv6 aufgesetzt, damit der Webserver über die Public IPv6 erreichbar ist.
+- IPv6 erreichbarkeit des Servers intern
 
 Lan Interface:
 
